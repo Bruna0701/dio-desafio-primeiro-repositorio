@@ -1,1 +1,0 @@
-teste para atualização do repositório no GitHub com o comando "git push"
